@@ -1,0 +1,20 @@
+# ninja log v5
+4	5160	1691471855148447800	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/grouping_int/grouping_int_cuda.o	6efae3ea9d5a6d74
+3	5877	1691471855864701000	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	141a75029757cc79
+4	5922	1691471855910601800	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	dcc28a62ea0b50b3
+5	5978	1691471855966068900	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda.o	e7f230a1a53ab98a
+3	6218	1691471856205688600	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/ballquery/ballquery_cuda.o	db60ab14efc49f63
+6	6277	1691471856265043000	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery_heap/knnquery_heap_cuda.o	f0dbfdfaaa9b3f02
+3	6417	1691471856405558800	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/featuredistribute/featuredistribute_cuda.o	494f0130de79e0ec
+5979	11117	1691471861104659600	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	705366d78b925b48
+5167	11173	1691471861159107100	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/labelstat/labelstat_cuda.o	d67f885f23452e98
+3	13909	1691471863896497400	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/featuredistribute/featuredistribute_cuda_kernel.o	7d723d25d976659a
+4	14505	1691471864491965600	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/grouping_int/grouping_int_cuda_kernel.o	ba503b1ea50a6d6
+4	14733	1691471864719229300	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda_kernel.o	adfc427420d81f8
+3	14738	1691471864724860100	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/ballquery/ballquery_cuda_kernel.o	c33ef76cc9efaba
+6	14871	1691471864858052200	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery_heap/knnquery_heap_cuda_kernel.o	e9a9f068ab8f0f94
+4	14941	1691471864927821300	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda_kernel.o	651027dc3106de0c
+6	15141	1691471865127389100	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda_kernel.o	fb6277d8ab0113c0
+5877	18164	1691471868150695500	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/labelstat/labelstat_cuda_kernel.o	83bee505297d3b66
+6218	18714	1691471868701395900	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda_kernel.o	eb8caa5b209fc02b
+5923	20613	1691471870597060700	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	1382c4ec1a7f5f8c

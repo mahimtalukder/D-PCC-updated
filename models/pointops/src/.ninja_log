@@ -1,0 +1,21 @@
+# ninja log v5
+4	5034	1691467131	sampling_cuda.o	252a0d0580ead76
+2	5050	1691467131	knnquery_cuda.o	a271e5c242486c8b
+2	5052	1691467131	grouping_cuda.o	47fe3020645287bf
+2	5129	1691467131	knnquery_heap_cuda.o	3b168deb06f22a81
+3	5203	1691467131	interpolation_cuda.o	db6e307f36a99e0a
+2	5251	1691467131	ballquery_cuda.o	7fe8c65858dfd6ad
+3	5295	1691467132	grouping_int_cuda.o	a7a67b7f367c5a60
+5050	9414	1691467136	labelstat_cuda.o	4efcc4f7773b009e
+5130	9417	1691467136	featuredistribute_cuda.o	ecab6d0376ac2d89
+2	12051	1691467138	pointops_api.o	f0ad3d5d47b845be
+3	13734	1691467140	grouping_int_cuda_kernel.cuda.o	f686de905f122bb7
+2	13864	1691467140	ballquery_cuda_kernel.cuda.o	79faba484ab427cd
+6	13885	1691467140	interpolation_cuda_kernel.cuda.o	2dbecd88083b165e
+3	13940	1691467140	grouping_cuda_kernel.cuda.o	96eb207acdeac918
+3	13956	1691467140	knnquery_heap_cuda_kernel.cuda.o	837c1c9c62c362ab
+2	14484	1691467141	knnquery_cuda_kernel.cuda.o	608dc1105cc588b3
+5035	16789	1691467143	sampling_cuda_kernel.cuda.o	c491ad01779fe366
+5203	17037	1691467143	featuredistribute_cuda_kernel.cuda.o	818b2aabd5bee848
+5053	17148	1691467143	labelstat_cuda_kernel.cuda.o	1f45fed15e739861
+17149	17571	1691467144	pointops_cuda.so	92142fec3040cd02

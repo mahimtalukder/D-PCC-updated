@@ -1,0 +1,20 @@
+# ninja log v5
+4	5224	1691472687	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/grouping/grouping_cuda.o	8b9cda503ce1a0a8
+5	5474	1691472687	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/interpolation/interpolation_cuda.o	8bc57d4214d2246
+4	5984	1691472688	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/grouping_int/grouping_int_cuda.o	bcccc4fcf2951ee3
+3	6043	1691472688	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/ballquery/ballquery_cuda.o	d8cd149296321719
+10	6191	1691472688	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery_heap/knnquery_heap_cuda.o	23fca2d30e49280e
+4	6299	1691472688	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery/knnquery_cuda.o	1bfe5219b069cdac
+4	6367	1691472688	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/featuredistribute/featuredistribute_cuda.o	65cc508db377257
+8	6784	1691472688	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/labelstat/labelstat_cuda.o	11bbda1713a831c3
+6044	11129	1691472693	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/sampling/sampling_cuda.o	d1bee4c6a2f34954
+3	14061	1691472696	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/ballquery/ballquery_cuda_kernel.o	b044a5dbfcdd1e59
+9	14131	1691472696	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery/knnquery_cuda_kernel.o	d039f0d8b07bcf40
+3	14157	1691472696	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/featuredistribute/featuredistribute_cuda_kernel.o	b7b97e17080c4c68
+4	14698	1691472696	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/grouping/grouping_cuda_kernel.o	a03891d81ef66c5
+5	15001	1691472697	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/grouping_int/grouping_int_cuda_kernel.o	89ed8035d63094c3
+5	15130	1691472697	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/interpolation/interpolation_cuda_kernel.o	8906307e703256e6
+5238	17666	1691472699	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery_heap/knnquery_heap_cuda_kernel.o	a8862b3a315c0edf
+5985	18094	1691472700	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/labelstat/labelstat_cuda_kernel.o	1beb69feda77fe51
+6191	18346	1691472700	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/sampling/sampling_cuda_kernel.o	d5aedfd82f6cac0c
+5475	20509	1691472702	/media/mahim/5A40E1DF40E1C23D/CodeBase/D-PCC/models/pointops/build/temp.linux-x86_64-cpython-37/src/pointops_api.o	2d621f86c156227e
